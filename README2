@@ -1,0 +1,19 @@
+# HR Analytics Dashboard (Power BI) 
+
+This is a Power BI dashboard created to analyze HR data. 
+
+## 🔧 Tools Used: 
+- Power BI Desktop 
+- DAX (for KPIs and measures) 
+       
+## 📊 Dashboard Features: 
+- Department-wise attrition analysis 
+- Gender-based employee trends 
+- KPIs: Attrition Rate, Total Employees, Average Salary 
+- Clear layout and summary text for business insights 
+       
+## 📁 File Included: 
+- `HR_Analytics_Dashboard.pbix`: Power BI file with all visuals, KPIs, and summary 
+       
+## 🔎 Notes: 
+- Data was originally created in MySQL and exported as CSV. - Visualizations are fully interactive and ready for storytelling.
